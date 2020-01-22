@@ -15,7 +15,6 @@ def main():
     parser = 'html.parser'
 
     list_of_urls = [
-        #'https://forums.darklordpotter.net/',
         'https://www.theguardian.com/uk/technology',
         'https://thehackernews.com/',
         'https://www.schneier.com/',
@@ -49,11 +48,7 @@ def main():
         ]
         
     search_params = [
-        'Excellimore',
-        ]
-
-    list_of_urls = [
-        'https://www.edinburghnews.scotsman.com',
+        #Enter search term here
         ]
 
     exclusion_list = [
